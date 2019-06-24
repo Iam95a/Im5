@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Im5</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_connect">Connect</string>
+    <string name="action_user">User</string>
+</resources>
